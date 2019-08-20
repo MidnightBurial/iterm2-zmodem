@@ -3,7 +3,7 @@
 * 在mac下，实现与服务器进行便捷的文件上传和下载操作
 
 #步骤
-* 在本地/usr/local/bin/目录下保存iterm2-send-zmodem.sh 和iterm2-recv-zmodem.sh两个脚本
+* 在本地/usr/local/bin/(建议)目录下保存iterm2-send-zmodem.sh 和iterm2-recv-zmodem.sh两个脚本
 * 设置一下两个脚本的权限，一般 chmod 777 就行
 
 ```bash
