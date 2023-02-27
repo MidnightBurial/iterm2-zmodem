@@ -24,5 +24,7 @@ chmod -x iterm2-send-zmodem.sh iterm2-recv-zmodem.sh 或者 chmod 777 iterm2-sen
 
 
 
-
+* 注意：
+- MAC 本地需要安装 lrzsz
+`brew install lrzsz`
 
